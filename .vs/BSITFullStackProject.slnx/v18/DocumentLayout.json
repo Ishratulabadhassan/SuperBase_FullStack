@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\dataaccesslayer\\repositories\\productrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\productrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\dataaccesslayer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\userinterface\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C076BA81-8404-4ADF-ABF4-BD2ABBAC1419}|Models\\Models.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C076BA81-8404-4ADF-ABF4-BD2ABBAC1419}|Models\\Models.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917304D-655C-48C8-829F-B3F6978313F1}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\businesslogic\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917304D-655C-48C8-829F-B3F6978313F1}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\userinterface\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE47181-CD6A-4286-B9CF-1956D6D9C8B3}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917304D-655C-48C8-829F-B3F6978313F1}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\businesslogic\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917304D-655C-48C8-829F-B3F6978313F1}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\dataaccesslayer\\data\\product..json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\product..json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230934\\downloads\\crud_full_stack-main\\crud_full_stack-main\\bsit_full_stack_lab_3\\dataaccesslayer\\dalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923EB341-F4A8-45CD-8D22-34371022530B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\CRUD.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CRUD.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\CRUD.cs",
+              "RelativeToolTip": "DataAccessLayer\\CRUD.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:20:18.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:48:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Components\\App.razor",
+              "RelativeDocumentMoniker": "UserInterface\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Components\\App.razor",
+              "RelativeToolTip": "UserInterface\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T05:34:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Program.cs",
+              "RelativeToolTip": "UserInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:31:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\BusinessLogic\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\BusinessLogic\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:22:40.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "UserInterface\\Components\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\UserInterface\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "UserInterface\\Components\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T05:40:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\BusinessLogic\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\BusinessLogic\\Services\\ProductService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:38:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\DBHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\DBHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:00:35.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\Repositories\\ProductRepositoryJson.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ProductRepositoryJson.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\Repositories\\ProductRepositoryJson.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ProductRepositoryJson.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:35:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product..json",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\data\\Product..json",
+              "RelativeDocumentMoniker": "DataAccessLayer\\data\\Product..json",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\data\\Product..json",
+              "RelativeToolTip": "DataAccessLayer\\data\\Product..json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T05:30:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DalProduct.cs",
+              "DocumentMoniker": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\DalProduct.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DalProduct.cs",
+              "ToolTip": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\DalProduct.cs",
+              "RelativeToolTip": "DataAccessLayer\\DalProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:58:10.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

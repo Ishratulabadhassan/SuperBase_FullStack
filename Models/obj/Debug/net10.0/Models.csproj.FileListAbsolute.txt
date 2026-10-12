@@ -1,0 +1,4 @@
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\Models\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\Models\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\Models\obj\Debug\net10.0\Models.AssemblyInfo.cs
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\Models\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache

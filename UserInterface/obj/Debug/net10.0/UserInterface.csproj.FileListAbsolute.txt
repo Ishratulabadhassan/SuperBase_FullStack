@@ -1,0 +1,9 @@
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.csproj.AssemblyReference.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.AssemblyInfoInputs.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.AssemblyInfo.cs
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\UserInterface\obj\Debug\net10.0\UserInterface.MvcApplicationPartsAssemblyInfo.cache

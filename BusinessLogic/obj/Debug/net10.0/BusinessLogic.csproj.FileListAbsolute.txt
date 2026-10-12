@@ -1,0 +1,5 @@
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\BusinessLogic\obj\Debug\net10.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\BusinessLogic\obj\Debug\net10.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\BusinessLogic\obj\Debug\net10.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\BusinessLogic\obj\Debug\net10.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\230934\Downloads\CRUD_FULL_STACK-main\CRUD_FULL_STACK-main\BSIT_FULL_STACK_LAB_3\BusinessLogic\obj\Debug\net10.0\BusinessLogic.csproj.CoreCompileInputs.cache

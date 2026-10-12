@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/uQ9d8LBbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\230934\\Downloads\\CRUD_FULL_STACK-main\\CRUD_FULL_STACK-main\\BSIT_FULL_STACK_LAB_3\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\230934\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\230934\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\230934\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

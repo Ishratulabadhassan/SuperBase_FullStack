@@ -1,0 +1,13 @@
+﻿@page "/"
+@inject IProductService ps
+<h1>Products information</h1>
+
+@code{
+    List<ProductModel> Products = new List<ProductModel>();
+
+    protected override void OnInitialized()
+    {
+            Products = ps.GetAllData();
+        }
+    
+}
